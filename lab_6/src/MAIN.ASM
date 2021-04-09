@@ -10,7 +10,7 @@ STACKSEG SEGMENT PARA STACK 'STACK'
 STACKSEG ENDS
 
 DATASEG SEGMENT PARA PUBLIC 'DATA'
-    MENU DB '       Available actions:', 13, 10
+    MENU DB '       Actions:', 13, 10
         DB '1. Input unsigned decimal number;', 13, 10
         DB '2. Convert to unsigned hexadecimal;', 13, 10
         DB '3. Convert to signed binary;', 13, 10
