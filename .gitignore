@@ -2,3 +2,5 @@
 *.EXE
 *.OBJ
 *.COM
+*.o
+*.exe
