@@ -1,4 +1,5 @@
 .Ds_Store
+.vscode
 *.EXE
 *.OBJ
 *.COM
